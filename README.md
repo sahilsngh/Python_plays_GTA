@@ -6,5 +6,5 @@ There are several steps involve for this to work.
 3. Make sure that your pc and python is able to give 'keyboard_press' as output to the game.
 4. When it is sure that the output of 'keyboard_press' to your game as input.
 5. Then use numpy and opencv to capture all the frame as feature sets with keyboard press as lable value and save this files to use as input for your model.
-6. We need to use the fastest way to take screenshots as input atleast 25+ fps.
+6. We need to use the fastest way to take screenshots as input atleast 30+ fps.
 7. 
